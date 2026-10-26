@@ -1,0 +1,11 @@
+пакет {
+    имя = "skyforge-cron"
+    версия = "0.1.0"
+    автор = "SkyPackages"
+    описание = "Парсинг cron-выражений."
+    репозиторий = "github.com/skytech-alt/skyforge-cron"
+    точка_входа = "code/main.skf"
+    теги = ["cron", "scheduler"]
+    лицензия = "MIT"
+    зависимости = []
+}
